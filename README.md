@@ -1,64 +1,96 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Ekaterina Pupykina</h1>
 
-<div id="badges" align="center"> 
-  <a href="https://www.linkedin.com/in/ekaterina-pyshkova-11957a275/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <strong>Technical Project Coordinator | Manual QA Engineer | IT Support & Infrastructure | Python Automation | Unity/C#</strong>
+</p>
+
+<p align="center">
+  Open to fully remote opportunities
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ekaterina-pupykina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/collorllesshell/?hl=ru">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://confusion-case-2ff.notion.site/Ekaterina-Pupykina-Manual-QA-Engineer-Portfolio-23baf6b297d182109c070136334a085f?source=copy_link">
+    <img src="https://img.shields.io/badge/QA_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="QA Portfolio">
+  </a>
+  <a href="https://bubaleh1337.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
   <a href="https://t.me/kemisayega">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-</div>
+</p>
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=bubaleh1337&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+## About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="600" height="300"/>
-</div>
+Technical Project Coordinator and Manual QA Engineer with two years of commercial experience in IT infrastructure, technical support and project coordination.
 
----
+I also develop practical automation and software projects using Python, PostgreSQL, C# and Unity.
 
-### :woman_technologist: About Me : I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
-- :telescope: I’m studying as an Unity Game Developer and contributing to backend for building applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterina-pyshkova-11957a275/)
+- Coordinated 15+ concurrent technical projects involving 10+ employees and contractors
+- Tested web applications, mobile applications, REST APIs and games
+- Supported 25+ users, 30+ workstations, 4 physical servers, 10+ VMware virtual servers and 7+ 1C databases
+- Created structured test cases, checklists, defect reports and technical documentation
+- Built a Python/PostgreSQL Telegram bot for invoice and PDF document generation
+- Develop Unity 6 gameplay prototypes with Git and GitHub
 
----
+## Selected Work
 
-### :hammer_and_wrench: Languages and Tools :
+### QA Portfolio
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-</div>
+Four detailed case studies covering:
 
----
+- Game testing
+- Web application testing
+- REST API testing
+- Mobile application testing
+- Test design and execution
+- Defect reporting
+- Postman, Qase, Android Studio, ADB and Monkey
 
-### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubaleh1337&theme=dark)](https://git.io/streak-stats)
+[View the complete QA portfolio](https://confusion-case-2ff.notion.site/Ekaterina-Pupykina-Manual-QA-Engineer-Portfolio-23baf6b297d182109c070136334a085f?source=copy_link)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubaleh1337&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### [OKOLITSA](https://github.com/bubaleh1337/okolitsa)
 
+First-person psychological horror prototype developed in Unity 6. The project focuses on atmosphere, lighting, sound, environmental storytelling and player interaction.
 
+### [Retro FPS Vertical Slice](https://github.com/bubaleh1337/retro-fps-vertical-slice)
+
+Playable early-2000s-style FPS prototype with player movement, hitscan shooting, HUD feedback, interaction systems and a Windows build.
+
+### Python/PostgreSQL Invoice Automation Bot
+
+Private business automation project that generates invoices for several companies, stores customer and contract data and produces signed PDF documents.
+
+Technologies: Python, PostgreSQL, openpyxl, Google APIs, Adobe PDF Services API and pyTelegramBotAPI.
+
+## Skills & Tools
+
+**Quality Assurance**
+
+`Manual Testing` `Web Testing` `Mobile Testing` `API Testing` `Game Testing` `Test Design` `Bug Reporting` `Jira` `Qase` `TestRail` `Postman` `Chrome DevTools` `Android Studio` `ADB` `SQL`
+
+**Project Coordination**
+
+`Bitrix24` `ClickUp` `Requirements Analysis` `Task Management` `Client Communication` `Technical Documentation` `Project Reporting`
+
+**IT Infrastructure**
+
+`Active Directory` `Windows Server` `VMware ESXi` `Backup Systems` `Google Workspace` `Microsoft 365` `Networking` `Remote Support`
+
+**Development**
+
+`Python` `PostgreSQL` `C#` `Unity` `Git` `GitHub`
+
+## Education
+
+- **Bachelor of Science in Computer Science** — University of the People, expected 2028
+- **Software Testing / QA Engineering** — GeekBrains, 2023–2024
+
+## Contact
+
+- Email: [ekaterina.pyshkova@gmail.com](mailto:ekaterina.pyshkova@gmail.com)
+- LinkedIn: [ekaterina-pupykina](https://www.linkedin.com/in/ekaterina-pupykina/)
+- Telegram: [@kemisayega](https://t.me/kemisayega)
