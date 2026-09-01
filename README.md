@@ -60,12 +60,6 @@ First-person psychological horror prototype developed in Unity 6. The project fo
 
 Playable early-2000s-style FPS prototype with player movement, hitscan shooting, HUD feedback, interaction systems and a Windows build.
 
-### Python/PostgreSQL Invoice Automation Bot
-
-Private business automation project that generates invoices for several companies, stores customer and contract data and produces signed PDF documents.
-
-Technologies: Python, PostgreSQL, openpyxl, Google APIs, Adobe PDF Services API and pyTelegramBotAPI.
-
 ### [Vmeste — Collaborative Savings & Expense Trackere](https://github.com/bubaleh1337/vmeste-app)
 
 A production web app for shared financial goals, contributions and spending analytics.
@@ -75,6 +69,12 @@ A production web app for shared financial goals, contributions and spending anal
 **Stack:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Supabase · Vitest · Playwright · Vercel
 
 [Live App](https://vmeste-beta.vercel.app/) 
+
+### Python/PostgreSQL Invoice Automation Bot
+
+Private business automation project that generates invoices for several companies, stores customer and contract data and produces signed PDF documents.
+
+Technologies: Python, PostgreSQL, openpyxl, Google APIs, Adobe PDF Services API and pyTelegramBotAPI.
 
 ## Skills & Tools
 
