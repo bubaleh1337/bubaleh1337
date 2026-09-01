@@ -66,6 +66,16 @@ Private business automation project that generates invoices for several companie
 
 Technologies: Python, PostgreSQL, openpyxl, Google APIs, Adobe PDF Services API and pyTelegramBotAPI.
 
+### [Vmeste — Collaborative Savings & Expense Trackere]([https://github.com/bubaleh1337/retro-fps-vertical-slice](https://github.com/bubaleh1337/vmeste-app))
+
+A production web app for shared financial goals, contributions and spending analytics.
+
+**Highlights:** shared savings goals, CSV/XLSX bank statement import, expense categorization, analytics, multi-currency support and RU/EN localization.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Supabase · Vitest · Playwright · Vercel
+
+[Live App](https://vmeste-beta.vercel.app/) 
+
 ## Skills & Tools
 
 **Quality Assurance**
