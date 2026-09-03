@@ -60,7 +60,7 @@ First-person psychological horror prototype developed in Unity 6. The project fo
 
 Playable early-2000s-style FPS prototype with player movement, hitscan shooting, HUD feedback, interaction systems and a Windows build.
 
-### [Vmeste — Collaborative Savings & Expense Trackere](https://github.com/bubaleh1337/vmeste-app)
+### [Together — Collaborative Savings & Expense Trackere](https://github.com/bubaleh1337/vmeste-app)
 
 A production web app for shared financial goals, contributions and spending analytics.
 
