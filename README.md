@@ -1,18 +1,21 @@
 <h1 align="center">Ekaterina Pupykina</h1>
 
 <p align="center">
-  <strong>Technical Project Coordinator | Manual QA Engineer | IT Support & Infrastructure | Python Automation | Unity/C#</strong>
+  <strong>Unity / C# Game Developer · QA Engineer · Software Developer · Technical Project Coordinator</strong>
 </p>
 
 <p align="center">
-  Open to fully remote opportunities
+  Building games and interactive software · Atyrau, Kazakhstan · Open to remote international teams and relocation with support
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ekaterina-pupykina/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://confusion-case-2ff.notion.site/Ekaterina-Pupykina-Manual-QA-Engineer-Portfolio-23baf6b297d182109c070136334a085f?source=copy_link">
+  <a href="https://confusion-case-2ff.notion.site/Ekaterina-Pupykina-Unity-C-Game-Developer-3c8af6b297d180cdad76f3c71def1e6a">
+    <img src="https://img.shields.io/badge/GameDev_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="GameDev Portfolio">
+  </a>
+  <a href="https://confusion-case-2ff.notion.site/Ekaterina-Pupykina-Manual-QA-Engineer-Portfolio-23baf6b297d182109c070136334a085f">
     <img src="https://img.shields.io/badge/QA_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="QA Portfolio">
   </a>
   <a href="https://bubaleh1337.itch.io/">
@@ -23,76 +26,45 @@
   </a>
 </p>
 
-## About Me
+## About me
 
-Technical Project Coordinator and Manual QA Engineer with two years of commercial experience in IT infrastructure, technical support and project coordination.
+I build games and interactive software with a main focus on **Unity/C#**, while also shipping production web products with **TypeScript, Next.js, Supabase/PostgreSQL and Vercel**.
 
-I also develop practical automation and software projects using Python, PostgreSQL, C# and Unity.
+My background combines hands-on development, manual QA, technical troubleshooting and nearly two years of commercial IT support and technical project coordination. I am comfortable moving between requirements, implementation, debugging, testing and release validation.
 
-- Coordinated 15+ concurrent technical projects involving 10+ employees and contractors
-- Tested web applications, mobile applications, REST APIs and games
-- Supported 25+ users, 30+ workstations, 4 physical servers, 10+ VMware virtual servers and 7+ 1C databases
-- Created structured test cases, checklists, defect reports and technical documentation
-- Built a Python/PostgreSQL Telegram bot for invoice and PDF document generation
-- Develop Unity 6 gameplay prototypes with Git and GitHub
+Games are where I want to build my career. I care about how gameplay systems, environments, sound and small interactive details shape what the player feels.
 
-## Selected Work
+## Featured Projects
 
-### QA Portfolio
+| Project | What it demonstrates | Stack / links |
+|---|---|---|
+| **[Okolitsa](https://github.com/bubaleh1337/okolitsa)** | First-person psychological horror; gameplay flow, interactions, atmosphere, lighting, audio, level implementation and playable releases | Unity 6 · C# · [itch.io](https://bubaleh1337.itch.io/okolitsa) |
+| **[Retro FPS Vertical Slice](https://github.com/bubaleh1337/retro-fps-vertical-slice)** | Playable FPS slice with CharacterController movement, hitscan combat, ammo/reload, ScriptableObject weapon tuning, damage feedback and HUD | Unity 6 · C# · [Windows build](https://github.com/bubaleh1337/retro-fps-vertical-slice/releases/tag/M4_WindowsBuild) |
+| **[Shelf Seasons](https://github.com/bubaleh1337/shelf-seasons)** | Bilingual reading journal and visual book tracker with private library, OAuth, reading progress, calendars, series, seasonal shelves and recaps | Next.js · TypeScript · React · Supabase/PostgreSQL · [Live](https://shelf-seasons.vercel.app/) |
+| **[Saving Together](https://github.com/bubaleh1337/vmeste-app)** | Production PWA for shared savings goals, expense tracking, statement import, categorization, duplicate protection and multi-currency flows | Next.js · TypeScript · Supabase/PostgreSQL · [Live](https://vmeste-beta.vercel.app/) |
+| **Invoice Automation Bot** | Production workflow automation for invoice generation across several companies, PostgreSQL data storage and signed PDF output | Python · PostgreSQL · Google API · Adobe PDF API · private repo |
 
-Four detailed case studies covering:
+## QA & Technical Experience
 
-- Game testing
-- Web application testing
-- REST API testing
-- Mobile application testing
-- Test design and execution
-- Defect reporting
-- Postman, Qase, Android Studio, ADB and Monkey
+- Hands-on testing across **web, mobile, API and game projects**
+- Test design, exploratory and regression testing, defect investigation and release validation
+- Supported a **12-zone interactive museum** using Unity applications, VR, touch panels, projection and motion-capture systems
+- Coordinated **15+ technical projects** and **10+ employees/contractors**
+- Supported **25+ users** and administered Windows Server, VMware, Active Directory, SQL Server, NAS and backup systems
 
-[View the complete QA portfolio](https://confusion-case-2ff.notion.site/Ekaterina-Pupykina-Manual-QA-Engineer-Portfolio-23baf6b297d182109c070136334a085f?source=copy_link)
+## Skills
 
-### [OKOLITSA](https://github.com/bubaleh1337/okolitsa)
+**Game Development**  
+`Unity 6` `C#` `Gameplay Implementation` `Interactions` `Physics` `UI` `Lighting` `Audio` `Blender` `Git`
 
-First-person psychological horror prototype developed in Unity 6. The project focuses on atmosphere, lighting, sound, environmental storytelling and player interaction.
+**Software Development**  
+`TypeScript` `Next.js` `React` `Python` `PostgreSQL` `Supabase` `REST API` `JSON` `Vercel`
 
-### [Retro FPS Vertical Slice](https://github.com/bubaleh1337/retro-fps-vertical-slice)
+**Quality Assurance**  
+`Manual Testing` `Game Testing` `Web Testing` `Mobile Testing` `API Testing` `Exploratory Testing` `Regression Testing` `Bug Reporting` `Postman` `Qase` `TestRail` `Chrome DevTools` `Android Studio` `ADB`
 
-Playable early-2000s-style FPS prototype with player movement, hitscan shooting, HUD feedback, interaction systems and a Windows build.
-
-### [Together — Collaborative Savings & Expense Trackere](https://github.com/bubaleh1337/vmeste-app)
-
-A production web app for shared financial goals, contributions and spending analytics.
-
-**Highlights:** shared savings goals, CSV/XLSX bank statement import, expense categorization, analytics, multi-currency support and RU/EN localization.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Supabase · Vitest · Playwright · Vercel
-
-[Live App](https://vmeste-beta.vercel.app/) 
-
-### Python/PostgreSQL Invoice Automation Bot
-
-Private business automation project that generates invoices for several companies, stores customer and contract data and produces signed PDF documents.
-
-Technologies: Python, PostgreSQL, openpyxl, Google APIs, Adobe PDF Services API and pyTelegramBotAPI.
-
-## Skills & Tools
-
-**Quality Assurance**
-
-`Manual Testing` `Web Testing` `Mobile Testing` `API Testing` `Game Testing` `Test Design` `Bug Reporting` `Jira` `Qase` `TestRail` `Postman` `Chrome DevTools` `Android Studio` `ADB` `SQL`
-
-**Project Coordination**
-
-`Bitrix24` `ClickUp` `Requirements Analysis` `Task Management` `Client Communication` `Technical Documentation` `Project Reporting`
-
-**IT Infrastructure**
-
-`Active Directory` `Windows Server` `VMware ESXi` `Backup Systems` `Google Workspace` `Microsoft 365` `Networking` `Remote Support`
-
-**Development**
-
-`Python` `PostgreSQL` `C#` `Unity` `Git` `GitHub`
+**Technical Coordination & Infrastructure**  
+`Requirements Analysis` `Task Management` `Technical Documentation` `Bitrix24` `ClickUp` `Windows Server` `VMware` `Active Directory`
 
 ## Education
 
@@ -101,6 +73,6 @@ Technologies: Python, PostgreSQL, openpyxl, Google APIs, Adobe PDF Services API 
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/ekaterina-pupykina](https://www.linkedin.com/in/ekaterina-pupykina/)
 - Email: [ekaterina.pyshkova@gmail.com](mailto:ekaterina.pyshkova@gmail.com)
-- LinkedIn: [ekaterina-pupykina](https://www.linkedin.com/in/ekaterina-pupykina/)
-- Telegram: [@kemisayega](https://t.me/kemisayega)
+- GitHub: [github.com/bubaleh1337](https://github.com/bubaleh1337)
