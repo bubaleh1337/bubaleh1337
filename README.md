@@ -42,7 +42,7 @@ Games are where I want to build my career. I care about how gameplay systems, en
 | **[Retro FPS Vertical Slice](https://github.com/bubaleh1337/retro-fps-vertical-slice)** | Playable FPS slice with CharacterController movement, hitscan combat, ammo/reload, ScriptableObject weapon tuning, damage feedback and HUD | Unity 6 · C# · [Windows build](https://github.com/bubaleh1337/retro-fps-vertical-slice/releases/tag/M4_WindowsBuild) |
 | **[Shelf Seasons](https://github.com/bubaleh1337/shelf-seasons)** | Bilingual reading journal and visual book tracker with private library, OAuth, reading progress, calendars, series, seasonal shelves and recaps | Next.js · TypeScript · React · Supabase/PostgreSQL · [Live](https://shelf-seasons.vercel.app/) |
 | **[Saving Together](https://github.com/bubaleh1337/vmeste-app)** | Production PWA for shared savings goals, expense tracking, statement import, categorization, duplicate protection and multi-currency flows | Next.js · TypeScript · Supabase/PostgreSQL · [Live](https://vmeste-beta.vercel.app/) |
-| **Invoice Automation Bot** | Production workflow automation for invoice generation across several companies, PostgreSQL data storage and signed PDF output | Python · PostgreSQL · Google API · Adobe PDF API · private repo |
+| **[Telegram Invoice Automation Bot — Portfolio Architecture](https://github.com/bubaleh1337/telegram-invoice-bot-architecture)** | Portfolio-safe pseudocode representation of a production multi-company invoice automation bot: Telegram workflow, PostgreSQL counterparties/contracts, invoice profiles, numbering logic, Excel-to-PDF generation and document overlays | Python 3.11 · PostgreSQL · pyTelegramBotAPI · openpyxl · PDF processing · production source private |
 
 ## QA & Technical Experience
 
