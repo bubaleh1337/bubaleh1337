@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building games and interactive software · Atyrau, Kazakhstan · Open to remote international teams and relocation with support
+  Building games and production software · Atyrau, Kazakhstan · Open to remote international teams and relocation with support
 </p>
 
 <p align="center">
@@ -28,7 +28,9 @@
 
 ## About me
 
-I build games and interactive software with a main focus on **Unity/C#**, while also shipping production web products with **TypeScript, Next.js, Supabase/PostgreSQL and Vercel**.
+I build games and production software with a main focus on **Unity/C#**, while also shipping real web products and business systems.
+
+My recent work includes **ATOM**, a live multilingual commercial website used by an operating advertising business for customer acquisition, alongside production web apps built with **TypeScript, Next.js, Supabase/PostgreSQL and Vercel**.
 
 My background combines hands-on development, manual QA, technical troubleshooting and nearly two years of commercial IT support and technical project coordination. I am comfortable moving between requirements, implementation, debugging, testing and release validation.
 
@@ -40,6 +42,7 @@ Games are where I want to build my career. I care about how gameplay systems, en
 |---|---|---|
 | **[Okolitsa](https://github.com/bubaleh1337/okolitsa)** | First-person psychological horror; gameplay flow, interactions, atmosphere, lighting, audio, level implementation and playable releases | Unity 6 · C# · [itch.io](https://bubaleh1337.itch.io/okolitsa) |
 | **[Retro FPS Vertical Slice](https://github.com/bubaleh1337/retro-fps-vertical-slice)** | Playable FPS slice with CharacterController movement, hitscan combat, ammo/reload, ScriptableObject weapon tuning, damage feedback and HUD | Unity 6 · C# · [Windows build](https://github.com/bubaleh1337/retro-fps-vertical-slice/releases/tag/M4_WindowsBuild) |
+| **[ATOM — Production Business Website](https://github.com/bubaleh1337/atom-site)** | Live multilingual commercial website with responsive UI, lead capture, Supabase persistence, UTM attribution, Telegram/email notifications, anti-spam protection and production SEO | HTML · CSS · JavaScript · Vercel Functions · Supabase/PostgreSQL · [Live](https://atom.com.kz/) |
 | **[Shelf Seasons](https://github.com/bubaleh1337/shelf-seasons)** | Bilingual reading journal and visual book tracker with private library, OAuth, reading progress, calendars, series, seasonal shelves and recaps | Next.js · TypeScript · React · Supabase/PostgreSQL · [Live](https://shelf-seasons.vercel.app/) |
 | **[Saving Together](https://github.com/bubaleh1337/vmeste-app)** | Production PWA for shared savings goals, expense tracking, statement import, categorization, duplicate protection and multi-currency flows | Next.js · TypeScript · Supabase/PostgreSQL · [Live](https://vmeste-beta.vercel.app/) |
 | **[Telegram Invoice Automation Bot — Portfolio Architecture](https://github.com/bubaleh1337/telegram-invoice-bot-architecture)** | Portfolio-safe pseudocode representation of a production multi-company invoice automation bot: Telegram workflow, PostgreSQL counterparties/contracts, invoice profiles, numbering logic, Excel-to-PDF generation and document overlays | Python 3.11 · PostgreSQL · pyTelegramBotAPI · openpyxl · PDF processing · production source private |
@@ -48,6 +51,7 @@ Games are where I want to build my career. I care about how gameplay systems, en
 
 - Hands-on testing across **web, mobile, API and game projects**
 - Test design, exploratory and regression testing, defect investigation and release validation
+- Built, tested and deployed a **live multilingual commercial website** with lead capture, database persistence, notification integrations and production SEO
 - Supported a **12-zone interactive museum** using Unity applications, VR, touch panels, projection and motion-capture systems
 - Coordinated **15+ technical projects** and **10+ employees/contractors**
 - Supported **25+ users** and administered Windows Server, VMware, Active Directory, SQL Server, NAS and backup systems
@@ -58,7 +62,7 @@ Games are where I want to build my career. I care about how gameplay systems, en
 `Unity 6` `C#` `Gameplay Implementation` `Interactions` `Physics` `UI` `Lighting` `Audio` `Blender` `Git`
 
 **Software Development**  
-`TypeScript` `Next.js` `React` `Python` `PostgreSQL` `Supabase` `REST API` `JSON` `Vercel`
+`TypeScript` `Next.js` `React` `JavaScript` `HTML` `CSS` `Python` `PostgreSQL` `Supabase` `REST API` `JSON` `Vercel` `Serverless Functions`
 
 **Quality Assurance**  
 `Manual Testing` `Game Testing` `Web Testing` `Mobile Testing` `API Testing` `Exploratory Testing` `Regression Testing` `Bug Reporting` `Postman` `Qase` `TestRail` `Chrome DevTools` `Android Studio` `ADB`
